@@ -216,8 +216,8 @@ export default function App() {
               </div>
             </div>
             <div className="relative">
-              <div className="aspect-square rounded-3xl bg-pink-100 overflow-hidden shadow-inner">
-               <img src="/me.jpg" alt="Me" className="w-full h-full object-cover" />
+              <div className="aspect-[3/4] rounded-3xl bg-pink-100 overflow-hidden shadow-inner">
+               <img src="/me.jpg" alt="Me" className="w-full h-full object-contain" />
               </div>
               <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-pink-200 rounded-2xl -z-10"></div>
               <div className="absolute -top-6 -left-6 w-24 h-24 border-4 border-pink-100 rounded-full -z-10"></div>
