@@ -218,8 +218,8 @@ export default function App() {
             <div className="relative">
               <div className="aspect-square rounded-3xl bg-pink-100 overflow-hidden shadow-inner">
                 <img 
-                  src="https://picsum.photos/seed/art/600/600" 
-                  alt="Artistic background" 
+                  <img src="me.jpg" 
+                  alt="me" 
                   className="w-full h-full object-cover opacity-60 mix-blend-multiply"
                 />
               </div>
