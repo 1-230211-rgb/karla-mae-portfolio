@@ -319,7 +319,7 @@ export default function App() {
       {/* Gallery Section */}
       <section id="gallery" className="py-24 px-6 bg-white">
         <div className="max-w-6xl mx-auto">
-          <SectionTitle>Creative Gallery</SectionTitle>
+          <SectionTitle>My Artwork</SectionTitle>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {gallery.map((item, i) => (
               <motion.div
