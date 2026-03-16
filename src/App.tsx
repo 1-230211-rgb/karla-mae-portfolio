@@ -219,7 +219,7 @@ export default function App() {
               <div className="aspect-square rounded-3xl bg-pink-100 overflow-hidden shadow-inner">
                 <img 
                   <img src="me.jpg" 
-                  alt="me" 
+                  alt="Me" 
                   className="w-full h-full object-cover opacity-60 mix-blend-multiply"
                 />
               </div>
